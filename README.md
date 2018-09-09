@@ -1,0 +1,128 @@
+# Read-papers
+Read-papers
+
+this is only my study
+
+1. Three Ways to Improve the Performance of Real-Life Camera-Based Fall Detection Systems
+ - Glen Debard,1,2 Marc Mertens,1,3 Toon Goedeme,2,4 Tinne Tuytelaars,2,5 and Bart Vanrumste6,7,8
+ - Journal of Sensors 2016
+
+2. Human fall detection in surveillance video based on PCANet
+ - Shengke Wang1 & Long Chen1 & Zixi Zhou1 & Xin Sun1 & Junyu Dong1
+ - he National Natural Science Foundation of China (NSFC) 2015
+
+3. Fall Detection in Homes of Older Adults Using the Microsoft Kinect
+ - Erik E. Stone and Marjorie Skubic
+ - IEEE 2015
+
+4. A Survey on Vision-based Fall Detection
+ - Zhong Zhang, Christopher Conly, and Vassilis Athitsos
+ - ACM 2015
+
+5. Fall Detection Based on Body Part Tracking Usinga Depth Camera
+ - Zhen-Peng Bian, Student Member, IEEE, Junhui Hou, Student Member, IEEE, Lap-Pui Chau, Senior
+Member, IEEE, and Nadia Magnenat-Thalmann
+ - IEEE 2015
+
+6. A Vision based Fall Detection System for Elderly People
+ - J. Sree Madhubala* and A. Umamakeswari
+ - Indian Journal of Science and Technology 2015
+
+7. Motion Estimation?based Human Fall Detection for Visual Surveillance
+ - Heegwang Kim, Jinho Park, Hasil Park, and Joonki Paik* 
+ - IEIE Transactions on Smart Processing and Computing, vol. 5, no. 5, October 2016
+
+8. Computer vision based fall detection by a convolutional neural network
+ - Miao Yu, Liyun Gong, Stefanos Kollias
+ - ACM 2017
+
+9. Scalable Semi-Automatic Annotation for Multi-Camera Person Tracking
+ - Jorge Nino-Castaneda, Andres Frias-Velazquez, Nyan Bo Bo, Maarten Slembrouck, Junzhi Guan,
+Glen Debard, Bart Vanrumste, Tinne Tuytelaars, and Wilfried Philips
+ - IEEE 2016
+
+10. Bridging the gap between real-life data and simulated data by providing a highly realistic fall dataset for evaluating camera-based fall detection algorithms
+ - Greet Baldewijns, Glen Debard, Gert Mertes, Bart Vanrumste, Tom Croonenborghs
+ - IET 2016
+
+11. Camera-based fall detection using a particle filter
+ - Glen Debard,Greet Baldewijns, Toon Goedem, Tinne Tuytelaars, and Bart Vanrumste
+ - IEEE 2015
+
+12. ¡°Camera-based fall detection using real-world versus simulated data: How far are we from the solution?
+ - Glen Debard, Marc Mertens, Mieke Deschodt, Ellen Vlaeyen, Els Devriendt, Eddy Dejaeger, Koen Milisen, Jos Tournoy, Tom Croonenborghs, Toon Goedeme
+Tinne Tuytelaars, and Bart Vanrumste
+ - Journal of Ambient Intelligence and Smart Environments 2016
+
+13. Involvement of older people in the development of fall detection systems: a scoping review
+ - F. J. S. Thilo, B. Hurlimann, S. Hahn, S. Bilger, J. M. G. A.Schols, and R. J. G. Halfens
+ - BMC Geriatrics 2016
+
+14. A Fall Prediction Methodology for Elderly Based on a Depth Camera
+ - Rami Alazrai, Yaser Mowafi, and Eyad Hamad
+ - IEEE 2015
+
+15. Home Camera-Based Fall Detection System for the Elderly o
+ - Koldo de Miguel, Alberto Brunete, Miguel Hernando, and Ernesto Gambao
+ - Sensors 2017
+
+16. Vision-Based Fallen Person Detection for the Elderly
+ - Markus D. Solbach and John K. Tsotsos
+ - ICCV 2017
+
+17. Human pose estimation via Convolutional Part Heatmap Regression
+ - Adrian Bulat and Georgios Tzimiropoulos
+ -  European Conference on Computer Vision, 2016 - Springer
+
+18. Vision-based fall detection system for improving safety of elderly people
+ - Harrou, Fouzi; Zerrouki, Nabil; Sun, Ying; Houacine, Amrane
+ - IEEE 2017
+
+19. 3D depth image analysis for indoor fall detection of elderly people
+ - LeiYang, YanyunRen, WenqiangZhang
+ - Digital Communications and Networks, 2016
+
+
+20. Abnormal Gait Behavior Detection for Elderly Based on Enhanced Wigner-Ville Analysis and Cloud Incremental SVM Learning
+ - Jian Luo,1,2 Jin Tang,1 and Xiaoming Xiao1
+ - Journal of Sensors 2016
+
+21. Measuring frailty and detecting falls for elderly home care using depth camera
+ - Amandine Dubois, Francois Charpillet
+ -  Journal of Ambient Intelligence and Smart Environments, 2017
+
+22. APPLYING INTELLIGENT MOTION AND LOCATION MONITORING SYSTEM FOR THE ELDERLY
+ - S. KHAWANDI, 2B. DAYA, 3F. KHALIL 
+ - Journal of Theoretical and Applied Information Technology 2016
+
+23. Activity Recognition for Indoor Fall Detection Using Convolutional Neural Network
+ - Kripesh Adhikari, Hamid Bouchachia
+ - IEEE 2017
+
+24. Fall detection via human posture representation and support vector machine ¤·¤·¤·¤·
+ - Kaibo Fan, Ping Wang, Yan Hu and Bingjie Dou
+ - International journal of Distributed Sensor Networks 2017
+
+25. Vision-Based Fall Detection with Convolutional Neural Networks
+ - Adrian Nunez-Marcos, Gorka Azkune, and Ignacio Arganda-Carreras
+ - Wireless Communications and Mobile Computing 2017
+
+26. Human Fall Detection using Maximum Euclidean Distance and Ellipse Approximation
+ - Dujtep Thawonsusin and Pranchalee Samanpiboon
+ -  Journal of Advances in Mechanical & Automobile 2016
+
+27. Validation of accuracy of SVM-based fall detection system using real-world fall and non-fall datasets
+ - Omar Aziz , Jochen Klenk, Lars Schwickert, Lorenzo Chiari, Clemens Becker, Edward J. Park, Greg Mori, Stephen N. Robinovitch
+ - PLOS 2017
+
+28. Classification of Human Fall from Activities of Daily Life using Joint Measurements
+ - Yoosuf Nizam, Mohd Norzali Haji Mohd, M. Mahadi Abdul Jamil1
+ - journal of Telecommunication, Electronic 2016
+
+29. A Real-time Fall Detection System for Maintenance Activities in Indoor Environments
+ - D. Triantafyllou ? S. Krinidis ? D. Ioannidis ? I.N. Metaxa ?? C. Ziazios ?? D. Tzovaras ?
+ - IFAC 2016
+
+30 Development of Home Intelligent Fall Detection IoT System based on Feedback Optical Flow Convolutional Neural Network
+ - Yi-Zeng Hsieh and Yu-Lin Jeng
+ - IEEE 2017
